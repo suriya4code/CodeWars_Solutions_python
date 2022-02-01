@@ -1,1 +1,1 @@
-# CodeWars_Solutions_python
+# CodeWars_Solutions_python_SQL
